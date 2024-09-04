@@ -1,14 +1,12 @@
-### Hi! 👋 I'm Dimas.
+### Hi! 👋 I'm Naufal Labib.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+A passionate Informatics student who loves to explore the intersections of technology, design, and business. I’m always eager to learn new things, whether it’s a new programming language, graphic design, or the latest trends in cryptocurrency and entrepreneurship.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
-
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Novice Pianist
+- 🔭 I’m currently studying at <a href="https://uad.ac.id/">Universitas Ahmad Dahlan</a>
+- 🌱 I’m currently learning about full-stack development and business
+- 💬 Feel free to ask me about web development or graphic design
+- 📫 How to reach me: muhammadnaufallabibramadhan@gmail.com
+- ⚡ Fun fact: I love designing logos and editing videos
 
 ### Tech Stack
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a> 
