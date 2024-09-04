@@ -9,7 +9,6 @@ A passionate Informatics student who loves to explore the intersections of techn
 - ⚡ Fun fact: I love designing logos and editing videos
 
 ### Tech Stack
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 <a href="https://reactjs.org/"><img alt="React.js" title="React.js" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 <a href="https://vuejs.org/"><img alt="Vue.js" title="Vue.js" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
@@ -28,10 +27,7 @@ A passionate Informatics student who loves to explore the intersections of techn
 <a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" width="21px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" /></a>
 </div>
 
-<br> 
-
 ### Github Statistic
-
 <p align="left">
 <a href="https://github.com/Naufallabibb">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Naufallabibb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
