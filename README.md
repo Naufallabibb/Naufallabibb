@@ -10,7 +10,7 @@ A passionate Informatics student who loves to explore the intersections of techn
 
 ### Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px;">
 <a href="https://reactjs.org/"><img alt="React.js" title="React.js" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 <a href="https://vuejs.org/"><img alt="Vue.js" title="Vue.js" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <a href="https://angular.io/"><img alt="Angular.js" title="Angular.js" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" /></a>
