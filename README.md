@@ -11,20 +11,20 @@ A passionate Informatics student who loves to explore the intersections of techn
 ### Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 <a href="https://reactjs.org/"><img alt="React.js" title="React.js" width="41px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href="https://vuejs.org/"><img alt="Vue.js" title="Vue.js" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
-<a href="https://angular.io/"><img alt="Angular.js" title="Angular.js" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" /></a>
-<a href="https://nodejs.org/"><img alt="Node.js" title="Node.js" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-<a href="https://strapi.io/"><img alt="Strapi" title="Strapi" width="21px" src="https://avatars.githubusercontent.com/u/22029879?s=200&v=4" /></a>
-<a href="https://expressjs.com/"><img alt="Express.js" title="Express.js" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a>
-<a href="https://nextjs.org/"><img alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-<a href="https://laravel.com/"><img alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
-<a href="https://codeigniter.com/"><img alt="CodeIgniter" title="CodeIgniter" width="21px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" /></a>
-<a href="https://tailwindcss.com/"><img alt="Tailwind CSS" title="Tailwind CSS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
-<a href="https://getbootstrap.com/"><img alt="Bootstrap" title="Bootstrap" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></a>
-<a href="https://sass-lang.com/"><img alt="Sass" title="Sass" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" /></a>
-<a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" width="21px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" /></a>
-<a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" width="21px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
-<a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" width="21px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" /></a>
+<a href="https://vuejs.org/"><img alt="Vue.js" title="Vue.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
+<a href="https://angular.io/"><img alt="Angular.js" title="Angular.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" /></a>
+<a href="https://nodejs.org/"><img alt="Node.js" title="Node.js" width="41px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+<a href="https://strapi.io/"><img alt="Strapi" title="Strapi" width="41px" src="https://avatars.githubusercontent.com/u/22029879?s=200&v=4" /></a>
+<a href="https://expressjs.com/"><img alt="Express.js" title="Express.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a>
+<a href="https://nextjs.org/"><img alt="Next" title="Next (React SSR Framework)" width="41px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+<a href="https://laravel.com/"><img alt="Laravel" title="Laravel" width="41px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
+<a href="https://codeigniter.com/"><img alt="CodeIgniter" title="CodeIgniter" width="41px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" /></a>
+<a href="https://tailwindcss.com/"><img alt="Tailwind CSS" title="Tailwind CSS" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
+<a href="https://getbootstrap.com/"><img alt="Bootstrap" title="Bootstrap" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></a>
+<a href="https://sass-lang.com/"><img alt="Sass" title="Sass" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" /></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" width="41px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" /></a>
+<a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" width="41px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
+<a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" width="41px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" /></a>
 </div>
 
 ### Github Statistic
