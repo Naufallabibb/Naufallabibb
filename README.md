@@ -25,6 +25,7 @@ A passionate Informatics student who loves to explore the intersections of techn
 <a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" width="41px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" /></a>
 <a href="https://firebase.google.com/"><img alt="Firebase" title="Firebase" width="41px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /></a>
 <a href="https://www.mongodb.com/"><img alt="MongoDB" title="MongoDB" width="41px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" /></a>
+<a href="https://wordpress.org/"><img alt="WordPress" title="WordPress" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" /></a>
 </div>
 
 ### Github Statistic
