@@ -18,8 +18,8 @@ A passionate Informatics student who loves to explore the intersections of techn
 <a href="https://expressjs.com/"><img alt="Express.js" title="Express.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a>
 <a href="https://nextjs.org/"><img alt="Next" title="Next (React SSR Framework)" width="41px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
 <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" width="41px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
-<a href="https://alpinejs.dev/" target="_blank"> <img alt="Alpine.js" title="Alpine.js" width="41px" src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" /></a>
-<a href="https://laravel-livewire.com/" target="_blank"><img alt="Livewire" title="Livewire" width="41px" src="https://raw.githubusercontent.com/livewire/docs/main/public/img/icon.svg" /></a>
+<a href="https://alpinejs.dev/" target="_blank"><img alt="Alpine.js" title="Alpine.js" width="41px" src="https://raw.githubusercontent.com/alpinejs/alpine/master/assets/alpine-long-logo.svg" /></a>
+<a href="https://laravel-livewire.com/" target="_blank"><img alt="Livewire" title="Livewire" width="41px" src="https://laravel-livewire.com/img/logo.svg" /></a>
 <a href="https://filamentphp.com/" target="_blank"><img alt="Filament" title="Filament" width="41px" src="https://filamentphp.com/images/logo.svg" /></a>
 <a href="https://codeigniter.com/"><img alt="CodeIgniter" title="CodeIgniter" width="41px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" /></a>
 <a href="https://wordpress.org/"><img alt="WordPress" title="WordPress" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" /></a>
