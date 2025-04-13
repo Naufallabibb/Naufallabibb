@@ -15,8 +15,9 @@ A passionate Informatics student who loves to explore the intersections of techn
 <a href="https://angular.io/"><img alt="Angular.js" title="Angular.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" /></a>
 <a href="https://nodejs.org/" target="_blank"> <img alt="Node.js" title="Node.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
 <a href="https://strapi.io/" target="_blank">
-  <img alt="Strapi" title="Strapi" width="41px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" />
+  <img alt="Strapi" title="Strapi" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Strapi_Logo.png" />
 </a>
+
 
 <a href="https://expressjs.com/"><img alt="Express.js" title="Express.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a>
 <a href="https://nextjs.org/"><img alt="Next" title="Next (React SSR Framework)" width="41px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
@@ -29,7 +30,7 @@ A passionate Informatics student who loves to explore the intersections of techn
 
 <!-- Filament -->
 <a href="https://filamentphp.com/" target="_blank">
-  <img alt="Filament" title="Filament" width="41px" src="https://avatars.githubusercontent.com/u/86980226?s=200&v=4" />
+  <img alt="Filament" title="Filament" width="41px" src="https://filamentphp.com/images/logo-mark-gradient.svg" />
 </a>
 
 
