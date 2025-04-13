@@ -28,7 +28,7 @@ A passionate Informatics student who loves to explore the intersections of techn
 
 <!-- Filament -->
 <a href="https://filamentphp.com/" target="_blank">
-  <img alt="Filament" title="Filament" width="41px" src="https://avatars.githubusercontent.com/u/75545444" />
+  <img alt="Filament" title="Filament" width="41px" src="https://cdn.jsdelivr.net/gh/filamentphp/filament@main/art/logo.svg" />
 </a>
 
 <a href="https://codeigniter.com/"><img alt="CodeIgniter" title="CodeIgniter" width="41px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" /></a>
