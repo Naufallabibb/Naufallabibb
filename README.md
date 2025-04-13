@@ -28,7 +28,7 @@ A passionate Informatics student who loves to explore the intersections of techn
 
 <!-- Filament -->
 <a href="https://filamentphp.com/" target="_blank">
-  <img alt="Filament" title="Filament" width="41px" src="https://raw.githubusercontent.com/filamentphp/filament/2.x/resources/images/brand-icon.png" />
+  <img alt="Filament" title="Filament" width="41px" src="https://img.shields.io/badge/Filament-2d3748?style=for-the-badge&logo=laravel&logoColor=white" />
 </a>
 <a href="https://codeigniter.com/"><img alt="CodeIgniter" title="CodeIgniter" width="41px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" /></a>
 <a href="https://wordpress.org/"><img alt="WordPress" title="WordPress" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" /></a>
