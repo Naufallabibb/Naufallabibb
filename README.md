@@ -18,9 +18,17 @@ A passionate Informatics student who loves to explore the intersections of techn
 <a href="https://expressjs.com/"><img alt="Express.js" title="Express.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a>
 <a href="https://nextjs.org/"><img alt="Next" title="Next (React SSR Framework)" width="41px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
 <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" width="41px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
-<a href="https://alpinejs.dev/" target="_blank"><img alt="Alpine.js" title="Alpine.js" width="41px" src="https://raw.githubusercontent.com/alpinejs/alpine/HEAD/.github/logo.svg" /></a>
 <a href="https://laravel-livewire.com/" target="_blank"><img alt="Livewire" title="Livewire" width="41px" src="https://laravel-livewire.com/img/logo.svg" /></a>
-<a href="https://filamentphp.com/" target="_blank"><img alt="Filament" title="Filament" width="41px" src="https://filamentphp.com/images/logo.svg" /></a>
+<!-- Alpine.js -->
+<a href="https://alpinejs.dev/" target="_blank">
+  <img alt="Alpine.js" title="Alpine.js" width="41px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" />
+</a>
+
+<!-- Filament -->
+<a href="https://filamentphp.com/" target="_blank">
+  <img alt="Filament" title="Filament" width="41px" src="https://avatars.githubusercontent.com/u/86980226?s=200&v=4" />
+</a>
+
 <a href="https://codeigniter.com/"><img alt="CodeIgniter" title="CodeIgniter" width="41px" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" /></a>
 <a href="https://wordpress.org/"><img alt="WordPress" title="WordPress" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" /></a>
 <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" title="Tailwind CSS" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
