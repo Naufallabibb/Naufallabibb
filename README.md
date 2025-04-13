@@ -13,7 +13,7 @@ A passionate Informatics student who loves to explore the intersections of techn
 <a href="https://reactjs.org/"><img alt="React.js" title="React.js" width="41px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 <a href="https://vuejs.org/"><img alt="Vue.js" title="Vue.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <a href="https://angular.io/"><img alt="Angular.js" title="Angular.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" /></a>
-<a href="https://nodejs.org/"><img alt="Node.js" title="Node.js" width="41px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+<a href="https://nodejs.org/" target="_blank"> <img alt="Node.js" title="Node.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
 <a href="https://strapi.io/"><img alt="Strapi" title="Strapi" width="41px" src="https://avatars.githubusercontent.com/u/22029879?s=200&v=4" /></a>
 <a href="https://expressjs.com/"><img alt="Express.js" title="Express.js" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></a>
 <a href="https://nextjs.org/"><img alt="Next" title="Next (React SSR Framework)" width="41px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
