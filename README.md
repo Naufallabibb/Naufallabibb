@@ -33,6 +33,8 @@ A passionate Informatics student who loves to explore the intersections of techn
   <a href="https://wordpress.org/"><img alt="WordPress" title="WordPress" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" /></a>&nbsp;
   <a href="https://laravel-livewire.com/"><img alt="Livewire" title="Livewire" width="40px" src="https://laravel-livewire.com/img/logo.svg" /></a>&nbsp;
   <a href="https://filamentphp.com/"><img alt="Filament" title="Filament" width="40px" src="https://img.shields.io/badge/Filament-2d3748?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+  <a href="https://mui.com/"><img alt="Material UI" title="Material UI" width="40px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" /></a>
+  <a href="https://ui.shadcn.com/"><img alt="Shadcn UI" title="Shadcn UI" width="40px" src="https://ui.shadcn.com/favicon.ico" /></a>
 </p>
 
 #### CSS & Databases
