@@ -17,6 +17,8 @@ A passionate Informatics student who loves to explore the intersections of techn
   <a href="https://angular.io/"><img alt="Angular.js" title="Angular.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" /></a>&nbsp;
   <a href="https://nextjs.org/"><img alt="Next" title="Next (React SSR Framework)" width="40px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>&nbsp;
   <a href="https://alpinejs.dev/"><img alt="Alpine.js" title="Alpine.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" /></a>
+  <a href="https://mui.com/"><img alt="Material UI" title="Material UI" width="40px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" /></a> 
+  <a href="https://ui.shadcn.com/"><img alt="Shadcn UI" title="Shadcn UI" width="40px" src="https://ui.shadcn.com/favicon.ico" /></a>
 </p>
 
 #### Backend
